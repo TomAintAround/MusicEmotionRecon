@@ -27,6 +27,7 @@
                 scipy
                 pyarrow
                 scikit-image
+                scikit-learn
                 jupytext
                 ipykernel
               ]))
