@@ -28,6 +28,9 @@
                 pyarrow
                 scikit-image
                 scikit-learn
+                pillow
+                mutagen
+                librosa
                 jupytext
                 ipykernel
               ]))
